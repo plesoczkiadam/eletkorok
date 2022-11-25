@@ -1,0 +1,8 @@
+C:\Users\Ádám\Desktop\óra c #\2022.09.26\2022.09.26\bin\Debug\2022.09.26.exe.config
+C:\Users\Ádám\Desktop\óra c #\2022.09.26\2022.09.26\bin\Debug\2022.09.26.exe
+C:\Users\Ádám\Desktop\óra c #\2022.09.26\2022.09.26\bin\Debug\2022.09.26.pdb
+C:\Users\Ádám\Desktop\óra c #\2022.09.26\2022.09.26\obj\Debug\2022.09.26.csproj.AssemblyReference.cache
+C:\Users\Ádám\Desktop\óra c #\2022.09.26\2022.09.26\obj\Debug\2022.09.26.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ádám\Desktop\óra c #\2022.09.26\2022.09.26\obj\Debug\2022.09.26.csproj.CoreCompileInputs.cache
+C:\Users\Ádám\Desktop\óra c #\2022.09.26\2022.09.26\obj\Debug\2022.09.26.exe
+C:\Users\Ádám\Desktop\óra c #\2022.09.26\2022.09.26\obj\Debug\2022.09.26.pdb
