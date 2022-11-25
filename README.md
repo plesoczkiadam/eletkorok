@@ -1,0 +1,2 @@
+# eletkorok
+switch használata.
